@@ -8,7 +8,7 @@
 body {margin:0;}
 
 body{
-	background-image:url("https://hackernoon.com/hn-images/1*PcTu-jNSmwxr82jdEEGtiQ.jpeg");
+	background-image:url("hack.jpg");
 }
 
 .icon-bar {
