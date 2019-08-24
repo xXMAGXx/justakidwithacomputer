@@ -4,8 +4,11 @@
     <title>justakidwithacomputer.com</title>
     <style>
     body{
-      background-color:rgb(52, 175, 227);
+      background-image:url("https://hackernoon.com/hn-images/1*PcTu-jNSmwxr82jdEEGtiQ.jpeg");
     }
+	body{
+		color:white;
+	}
     </style>
   </head>
   <body>
